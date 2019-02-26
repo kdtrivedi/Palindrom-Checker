@@ -10,7 +10,7 @@ A palindrome is a phrase that is spelled the same way, backwards and forwards (i
     Taco cat? Taco cat.
 -
      I create an express server with two pages: / and /result; one static asset, /public/site.css.
-     Also used #Handlebars for this
+     Also used Handlebars Api for this
 
 
 http://localhost:3000/
